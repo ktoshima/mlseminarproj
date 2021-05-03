@@ -1,3 +1,5 @@
+# ignore weight files
+*.hdf5
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,vscode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,vscode,python,jupyternotebooks
